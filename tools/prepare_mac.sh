@@ -4,7 +4,7 @@
 brew update
 
 # Tools we need
-brew install ctags ag ack ranger tig
+brew install ctags ag ack ranger tig tmux
 
 # This config need lua installed for faster script excution
 brew install lua 
